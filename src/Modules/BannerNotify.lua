@@ -1,3 +1,7 @@
+--[[
+  DISCLAIMER: I did not make this module, blve_hxrizon did, I put it in this repository as it's a part of my plugin
+]]
+
 local tweenService = game:GetService("TweenService")
 local runService = game:GetService("RunService")
 local CoreGui = game:GetService("CoreGui")
