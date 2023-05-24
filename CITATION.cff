@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you are using my plugin's code, please cite it ;)."
+authors:
+- family-names: "Alromaithi"
+  given-names: "Omar"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Raw-Converter"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-05-24
+url: "https://github.com/VSCPlays/Raw-Converter"
