@@ -3,7 +3,6 @@
 ]]
 
 local tweenService = game:GetService("TweenService")
-local runService = game:GetService("RunService")
 local CoreGui = game:GetService("CoreGui")
 
 local info = TweenInfo.new(.5, Enum.EasingStyle.Exponential, Enum.EasingDirection.Out, 0, false, 0)
