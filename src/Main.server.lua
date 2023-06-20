@@ -8,10 +8,10 @@ local Modules = script.Parent:WaitForChild("Modules")
 
 local BannerNotification = require(Modules:WaitForChild("BannerNotificationModule")) -- Require the Banner Notification Module
 
-local toolbar: PluginToolbar = plugin:CreateToolbar("Raw Converter")
+local toolbar = plugin:CreateToolbar("Raw Loader")
 
 local buton = toolbar:CreateButton("Convert Raw", "", "rbxassetid://13056301191")
-local button = toolbar:CreateButton("Insert RBXM", "", "rbxassetid://12966415768")
+local button = toolbar:CreateButton("Insert RBXM", "", "rbxassetid://13809849871")
 
 buton.ClickableWhenViewportHidden = true -- This allows the plugin to be able to run while the user is scripting
 button.ClickableWhenViewportHidden = true
