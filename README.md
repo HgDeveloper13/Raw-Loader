@@ -2,7 +2,7 @@
 
 This plugin is made by @VSCPlays for loading raw code with ease!
 
-[Releases](https://github.com/VSCPlays/Raw-Converter/releases)
+[Releases](https://github.com/VSC-Team/Raw-Loader/releases)
 
 # Usage Guide
 1. Create a LuaSourceContainer (must be a Script, LocalScript, or a ModuleScript)
@@ -15,7 +15,7 @@ This plugin is made by @VSCPlays for loading raw code with ease!
 # Credits
 - @VSCPlays - Scripting
 - @blve_hxrizon - Banner Notification Module
-- Microsoft - Warning and Check Icons
+- icons8 - Warning, Check, Boxes, and Document icons
 
 # Benefits
 - Automatically opens the script (if not opened)
