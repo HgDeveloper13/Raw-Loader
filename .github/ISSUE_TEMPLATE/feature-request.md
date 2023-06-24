@@ -19,3 +19,7 @@ Replace the `https://www.example.com/` with the URL you got the request from (on
 When I was using the plugin, it's currently too hard to ...
 
 If VSCPlays is able to address this issue, it would improve my experience using the plugin because ...
+
+<!--
+Be sure to mainly focus on problems rather than proposed solutions, you can't just request a feature because you just want it
+!-->
