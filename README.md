@@ -1,3 +1,5 @@
+<div align="center"><img src="https://github.com/VSC-Team/Raw-Loader/blob/main/icons8-document-48.png?raw=true"></div>
+
 # Raw Loader
 
 This plugin is made by @VSCPlays for loading raw code with ease!
